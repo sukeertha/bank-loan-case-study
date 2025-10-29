@@ -8,6 +8,6 @@ Cleaned and processed applicant data, performed exploratory data analysis (EDA),
 
 Due to GitHub’s 100 MB file-size limit, the complete Excel workbook is hosted on Google Drive.
 
-### [👉 Click here to view or download the file](https://drive.google.com/file/d/1DSq8tc1LocrdfAd1t06fTv8cY3spjlk6/view)
+### [👉 Click here to view or download the file](https://docs.google.com/spreadsheets/d/1DSq8tc1LocrdfAd1t06fTv8cY3spjlk6/edit?usp=sharing&ouid=104493935487302417309&rtpof=true&sd=true)
 
 (You can view all sheets, pivot tables, and charts directly in Google Sheets.)
